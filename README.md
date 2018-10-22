@@ -2,4 +2,4 @@
 
 This is a simple repository to practice branching and merging conflicts.
 
-Here is a potential conflict!
+We can manage *potential* conflicts using branches!
